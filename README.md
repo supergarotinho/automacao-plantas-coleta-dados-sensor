@@ -1,0 +1,1 @@
+# automacao-plantas-coleta-dados-sensor
